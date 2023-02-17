@@ -1,0 +1,11 @@
+Model Information:
+* title:	PC Spider
+* source:	https://sketchfab.com/3d-models/pc-spider-88f519a508ff42889deea7d17e652c23
+* author:	Pascal Chaumette (https://sketchfab.com/pakagames)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PC Spider" (https://sketchfab.com/3d-models/pc-spider-88f519a508ff42889deea7d17e652c23) by Pascal Chaumette (https://sketchfab.com/pakagames) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
