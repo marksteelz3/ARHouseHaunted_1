@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ARHouseMonsters.unity
     guid: 09950a32e440cd74ab3f37fdca264cf9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARHouseUpstairs.unity
     guid: 8031ab2c88146d24f996e86476d52a51
   - enabled: 0
     path: Assets/Scenes/OcclusionTest.unity
     guid: 2fba7c757ed55de49a15661198597162
+  - enabled: 1
+    path: Assets/Scenes/ARHouseUpstairs_Color.unity
+    guid: 44de600e1424afb459b13b924d9a1e3a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 970ff88c60e37e041bb55e964e137bc2, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 441de8054346c5e4fb87f4bc018c03a0, type: 2}

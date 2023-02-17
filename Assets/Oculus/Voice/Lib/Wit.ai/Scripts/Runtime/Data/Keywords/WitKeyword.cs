@@ -6,7 +6,7 @@
  */
 
 using System;
-using Facebook.WitAi.Lib;
+//using Facebook.WitAi.Lib;
 using UnityEngine;
 
 namespace Facebook.WitAi.Data.Keywords
@@ -18,14 +18,14 @@ namespace Facebook.WitAi.Data.Keywords
         [SerializeField] public string[] synonyms;
 
         #if UNITY_EDITOR
-        public static WitKeyword FromJson(WitResponseNode keywordNode)
-        {
-            return new WitKeyword()
-            {
-                keyword = keywordNode["keyword"],
-                synonyms = keywordNode["synonyms"].AsStringArray
-            };
-        }
+        //public static WitKeyword FromJson(WitResponseNode keywordNode)
+        //{
+        //    return new WitKeyword()
+        //    {
+        //        keyword = keywordNode["keyword"],
+        //        synonyms = keywordNode["synonyms"].AsStringArray
+        //    };
+        //}
         #endif
     }
 }
