@@ -1,5 +1,7 @@
 # ARHouseHaunted_1
-A passthrough AR halloween experience built for the AR House in October 2022.
+A passthrough AR halloween experience built for the AR House in October 2022. 
+
+NOTE: this project was done in a hackathon style, so the archictecture is not thoroughly thought out and the usability of this project by other developers is probably not great.
 
 Here's the general workflow I had which can be applied for any location-based AR experience:
 
